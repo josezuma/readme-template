@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is readme-template?
-README.md generator with sections
+Readme Template
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
